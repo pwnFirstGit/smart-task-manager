@@ -623,7 +623,7 @@ Expected screens:
 
 ---
 
-## 📝 Assessment Checklist
+## Assessment Checklist
 
 ### Deliverables
 - [x] Backend API with 5 endpoints
@@ -652,20 +652,20 @@ Expected screens:
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
-**Your Name**  
+Pawan Kumar Dangi 
 Backend + Flutter Hybrid Developer
 
 ---
 
-## 📄 License
+##  License
 
 This project is created for assessment purposes.
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - FastAPI documentation and community
 - Flutter & Riverpod documentation
@@ -674,6 +674,6 @@ This project is created for assessment purposes.
 
 ---
 
-**Live Demo:** (To be added after deployment)
+**Live Demo:** https://smart-task-manager-3z9n.onrender.com
 
-**Contact:** (Your email/contact)
+**Contact:** pawanforyou18@gmail.com / 6267385961
