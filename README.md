@@ -241,7 +241,7 @@ flutter run
 ### Base URL
 ```
 Development: http://localhost:8000
-Production: https://your-app.onrender.com
+Production: https://smart-task-manager-3z9n.onrender.com
 ```
 
 ### Endpoints
@@ -507,7 +507,7 @@ pytest tests/ -v
    ENVIRONMENT=production
    ```
 
-4. **Deploy** and note the live URL (e.g., `https://your-app.onrender.com`)
+4. **Deploy** and note the live URL: `https://smart-task-manager-3z9n.onrender.com`
 
 5. **Update Flutter App:**
    - Edit `flutter_app/lib/utils/constants.dart`
@@ -665,8 +665,7 @@ This project is created for assessment purposes.
 
 ---
 
-##  Acknowledgments
-
+## Acknowledgments
 - FastAPI documentation and community
 - Flutter & Riverpod documentation
 - Supabase for excellent PostgreSQL tooling
@@ -674,6 +673,6 @@ This project is created for assessment purposes.
 
 ---
 
-**Live Demo:** https://smart-task-manager-3z9n.onrender.com
+**Live Demo:** https://smart-task-manager-3z9n.onrender.com/docs
 
 **Contact:** pawanforyou18@gmail.com / 6267385961
