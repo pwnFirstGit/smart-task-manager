@@ -613,12 +613,12 @@ Given more time, I would add:
 ## 📸 Screenshots
 
 Expected screens:
-1. Dashboard with summary cards : [Screenshots/create-task-form.png)
+1. Dashboard with summary cards : [Screenshots/dashboard with summary.png)](https://github.com/pwnFirstGit/smart-task-manager/blob/main/Screenshots/dashboard%20with%20summary.png)
+2. Task list with filters : [Screenshots/task-list-with-filter.png)](https://github.com/pwnFirstGit/smart-task-manager/blob/main/Screenshots/task-list-with-filter.png)
+3. Create task form with classification preview : [Screenshots/create-task-form.png)
 ](https://github.com/pwnFirstGit/smart-task-manager/blob/main/Screenshots/create-task-form.png)
-2. Task list with filters
-3. Create task form with classification preview
-4. Task details view
-5. Search and filter UI
+4. Task details view : [Screenshots/task-details-view.png)](https://github.com/pwnFirstGit/smart-task-manager/blob/main/Screenshots/task-details-view.png)
+5. Search and filter UI : [Screenshots/search-and-filter.png)](https://github.com/pwnFirstGit/smart-task-manager/blob/main/Screenshots/search-and-filter.png)
 
 ---
 
