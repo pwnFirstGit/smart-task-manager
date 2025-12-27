@@ -613,8 +613,8 @@ Given more time, I would add:
 ## 📸 Screenshots
 
 Expected screens:
-1. Dashboard with summary cards : Screenshots/create-task-form.png)
-
+1. Dashboard with summary cards : [Screenshots/create-task-form.png)
+](https://github.com/pwnFirstGit/smart-task-manager/blob/main/Screenshots/create-task-form.png)
 2. Task list with filters
 3. Create task form with classification preview
 4. Task details view
