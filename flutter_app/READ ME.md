@@ -176,9 +176,5 @@ The main automated tests are in the backend. For Flutter, manual testing covers:
 - ✅ Error handling
 - ✅ Form validation
 
-## Next Steps
 
-Once the backend is deployed to Render.com:
-1. Update `lib/utils/constants.dart` with the production URL
-2. Build release version: `flutter build apk` (Android) or `flutter build ios` (iOS)
-3. Test with production API
+
