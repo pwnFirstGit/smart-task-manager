@@ -1,4 +1,4 @@
-# Smart Task Manager
+<img width="1440" height="900" alt="Screenshot 2025-12-23 at 5 29 56 AM" src="https://github.com/user-attachments/assets/52c682fb-9717-431c-b614-fb6ae275e1d0" /><img width="1440" height="900" alt="Screenshot 2025-12-23 at 5 29 56 AM" src="https://github.com/user-attachments/assets/588018bc-da5d-48f1-9382-0c8e3d32f2ca" /># Smart Task Manager
 
 > **Backend + Flutter Hybrid Developer Assessment**  
 > A comprehensive task management system with automatic classification and intelligent organization
@@ -611,8 +611,6 @@ Given more time, I would add:
 ---
 
 ## 📸 Screenshots
-
-> **Note:** Screenshots to be added after Flutter app is running
 
 Expected screens:
 1. Dashboard with summary cards
